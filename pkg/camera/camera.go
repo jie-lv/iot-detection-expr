@@ -1,3 +1,6 @@
+// pkg/camera/camera.go
+package camera
+
 import (
         "fmt"
         "os"
